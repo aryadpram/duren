@@ -10,6 +10,7 @@
             "includePath": [
                 "C:/Users/aryad/Downloads/duren/firmware/include",
                 "C:/Users/aryad/Downloads/duren/firmware/src",
+                "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                 "C:/Users/aryad/.platformio/packages/toolchain-xtensa/include",
@@ -26,7 +27,6 @@
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
-                "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src",
                 "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
@@ -59,6 +59,7 @@
                 "path": [
                     "C:/Users/aryad/Downloads/duren/firmware/include",
                     "C:/Users/aryad/Downloads/duren/firmware/src",
+                    "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                     "C:/Users/aryad/.platformio/packages/toolchain-xtensa/include",
@@ -75,7 +76,6 @@
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
-                    "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src",
                     "C:/Users/aryad/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
